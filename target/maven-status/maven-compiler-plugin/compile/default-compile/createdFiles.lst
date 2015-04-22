@@ -1,0 +1,9 @@
+man/cart/container/Stack.class
+man/cart/container/Stack$Node.class
+man/cart/container/Stack$1.class
+man/cart/container/Bag$ListIterator.class
+man/cart/container/Stack$ListIterator.class
+man/cart/container/Bag$1.class
+man/cart/graph/UndirectedGraph.class
+man/cart/container/Bag.class
+man/cart/container/Bag$Node.class
