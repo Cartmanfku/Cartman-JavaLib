@@ -1,7 +1,7 @@
-package man.cart.graph;
+package src.main.java.man.cart.graph;
 
-import man.cart.container.Bag;
-import man.cart.container.Stack;
+import src.main.java.man.cart.container.Bag;
+import src.main.java.man.cart.container.Stack;
 
 
 /**
