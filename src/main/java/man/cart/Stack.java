@@ -1,4 +1,4 @@
-package src.main.java.man.cart.container;
+package man.cart;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

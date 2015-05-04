@@ -1,4 +1,4 @@
-package src.test.java.man.cart;
+package man.cart;
 
 import static org.junit.Assert.*;
 
@@ -7,8 +7,8 @@ import org.junit.Test;
 public class QueueTest {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void testQueueBasicFunction() {
+		
 	}
 
 }

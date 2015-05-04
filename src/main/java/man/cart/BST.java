@@ -1,8 +1,6 @@
-package src.main.java.man.cart.binaryTree;
+package man.cart;
 
 import java.util.NoSuchElementException;
-
-import src.main.java.man.cart.container.Queue;
 
 public class BST<Key extends Comparable<Key>, Value> {
     private Node root;             // root of BST
